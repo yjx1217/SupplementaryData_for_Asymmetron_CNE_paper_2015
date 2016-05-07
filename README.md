@@ -1,4 +1,4 @@
-# SupplementaryData_for_Asymmetron_CNE_paper_2016
+# SupplementaryData for the Asymmetron CNE paper (2016)
 
 # Files
     1) SupplementaryFile_6.BfAl_CNE_WGA.fa.zip # sequences of whole-genome-alignment-based CNEs for A.lucayanum-B.floridae comparison
